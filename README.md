@@ -1,2 +1,6 @@
-# terroristAttacks
-Terrorist Attacks from Around the World
+<b>The aim of this repository is to explore the terrorist events around the world.<b><br>
+  
+  
+
+
+
